@@ -1,0 +1,35 @@
+\input texinfo
+@settitle Peter Jin (.org)
+@copying
+Copyright 2024 Peter Jin
+
+Creative Commons Attribution 4.0
+@end copying
+
+@titlepage
+@title Peter Jin (.org)
+@page
+@vskip 0pt plus 1filll
+@insertcopying
+@end titlepage
+
+@contents
+
+@node Top
+@top Peter Jin (.org)
+
+Peter Jin is a software developer of many worlds.
+
+@node About Me
+@chapter About Me
+
+@include about-me/index.texi
+
+@node Blog
+@chapter Blog
+
+@include blog/index.texi
+
+Lorem ipsum
+
+@bye
