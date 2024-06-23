@@ -1,0 +1,7 @@
+/about
+/about.src/about
+*.aux
+*.dvi
+*.log
+*.toc
+*.squashfs
