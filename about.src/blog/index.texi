@@ -1,2 +1,14 @@
 @node What happened to my Wiki
 @section What happened to my Wiki?
+
+@node To do
+@section To do
+
+@enumerate
+@item
+go2libc
+@enumerate
+@item
+squashfs containing debian root, all git repos including files, compiled binaries of socketbox, ctrtool, u-relay-tproxy, busybox
+
+
